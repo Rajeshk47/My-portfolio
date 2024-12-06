@@ -12,7 +12,7 @@ export default function Footer() {
             </h3>
             <p className="text-gray-400 flex items-center gap-2">
               <Phone className="w-5 h-5" />
-              +91 9704266448
+              +91 9885312874
             </p>
           </div>
 
